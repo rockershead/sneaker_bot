@@ -1,0 +1,25 @@
+{
+  "name": "sneaker_bot",
+  "version": "1.0.0",
+  "description": "We will be using puppeteer to access and interact with the webpage. chai and mocha will be used to run the unit tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockershead/sneaker_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockershead/sneaker_bot/issues"
+  },
+  "homepage": "https://github.com/rockershead/sneaker_bot#readme",
+  "dependencies": {
+    "puppeteer": "^19.8.5",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "wait-for-stuff": "^1.4.0"
+  }
+}
